@@ -69,7 +69,7 @@ The dataset contains three parts:
    			"pheight": 198.0, in px, the height of this section
   		}, ...
    ], -- a list of sections
-  	"mark_timestamp": -1/1587813276789, -- the timestamp of bookmarking. -1 (the default value) indicates that the case was not bookmarked.
+  	"mark_timestamp": 1587813276789, -- the timestamp of bookmarking. -1 (the default value) indicates that the case was not bookmarked.
   	"relevance_user": 3, -- the user annotated relevance, only available in bookmarked cases.
   	"relevance_label": 1, -- the relevance assessed by external experts, only available in bookmarked cases.
   	"reason_text": "...", -- the reasons for the relevance score given by the user.
